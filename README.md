@@ -3,9 +3,7 @@
 <h1> I'm so tired</h1>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87&layout=compact)](https://github.com/esin87/github-readme-stats)
-
-
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
 <!--
 **aj-codez/aj-codez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
